@@ -19,4 +19,4 @@ Overview of the content of this repo:
     - Applied Keras model  similar to the one described in Wieting *et al.*, 2016, sklearn MLPClassifier using word embeddings and using TF-IDF.
 
 Virutal Environment:
-tensorflow_1.4
+`tensorflow_1.4`
