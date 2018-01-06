@@ -18,3 +18,5 @@ Overview of the content of this repo:
     - Classification problem: based on two sentences determine whether those are NEUTRAL, ENTAILMENT, or CONTRADICTION
     - Applied Keras model  similar to the one described in Wieting *et al.*, 2016, sklearn MLPClassifier using word embeddings and using TF-IDF.
 
+Virutal Environment:
+`tensorflow_1.4`
